@@ -1,0 +1,19 @@
+第一 先点击目录文件夹到达， downloads->twtCollectBing->src 按照这个路径，最终到达src文件夹，在里面会看到很多的.java 和.sh文件文件//这个只是看一下，其实，可以直接在桌面打开任何一个窗口。
+
+第二 然后，点击鼠标右键，open terminal, 打开四个terminal(重复四次),
+然后在每个terminal 输入一条命令，
+cd ~/Downloads/twtCollectBing/src
+重复四次
+
+每个terminal（终端），输入一条 sh xxx.sh
+
+
+sh city1Twitter.sh
+sh city0Twitter.sh
+sh city2Twitter.sh
+sh oneDriveBing.sh
+
+这样的话，就完成了。最终的四个进程的同时开启
+
+在src中，有关于最近的运行效果截图
+
